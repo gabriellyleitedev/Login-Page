@@ -31,6 +31,8 @@ Você pode abrir os arquivos diretamente no navegador ou, se publicado no GitHub
 https://gabriellyleitedev.github.io/loginpage/ (após configurar o GitHub Pages)
 
 Screenshots
-![Print do site](<img width="1918" height="893" alt="Captura de tela 2025-09-26 130401" src="https://github.com/user-attachments/assets/0c0bd5ce-ed42-4f23-8900-e2265ad8ef23" />)
+![Print do site]
+(<img width="1918" height="893" alt="Captura de tela 2025-09-26 130401" src="https://github.com/user-attachments/assets/55adaea1-3f99-40fa-a360-fd8b1d10a88d" />
+)
 
 
