@@ -1,40 +1,36 @@
-# Login Page
+# 🔐 Estudo de Interface: Login Moderno
 
-Uma página de login simples e elegante construída com HTML e CSS, ideal para projetos de estudo e protótipos de interfaces de usuário.
+Este projeto é um estudo focado em **Fundamentos de UI (Interface de Usuário)**, explorando a criação de uma tela de autenticação com visual limpo e moderno.
 
-## Funcionalidades:
+---
 
-- Formulário de login com campos para:
+## 🛠️ Tecnologias e Conceitos
+- **HTML5 Semântico:** Estruturação de formulários focada em acessibilidade e SEO.
+- **CSS3 Avançado:** Uso de degradês (gradients), sombras (box-shadow) e efeitos de transição.
+- **Flexbox Layout:** Domínio de alinhamento e centralização de elementos em tela.
 
-- Nome de usuário
+---
 
-- Senha
+## 🚀 Funcionalidades Demonstradas
+- Interface de login com foco em Experiência do Usuário (UX).
+- Campos de entrada estilizados com feedback visual.
+- Checkbox personalizado e links de recuperação de conta.
+- Design focado em resoluções Desktop (Estudo Base).
 
-- Checkbox para "Lembrar"
+---
 
-- Link de "Esqueci minha senha"
+## 🌎 Link para Visualização
+O projeto está publicado no GitHub Pages e pode ser acessado aqui:
+👉[https://gabriellyleitedev.github.io/Login-Page/]
 
-- Botão de login
+---
 
-- Link para registro de contahttps://github.com/gabriellyleitedev/Login-Page/tree/main
+## 📸 Preview do Projeto
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/55adaea1-3f99-40fa-a360-fd8b1d10a88d" width="100%" alt="Preview Login Page">
+</p>
 
-- Design moderno com gradiente de fundo e efeito clean.
-
-## Tecnologias utilizadas:
-
-- HTML5
-
-- CSS3
-
-## Como visualizar:
-
-Você pode abrir os arquivos diretamente no navegador ou, se publicado no GitHub Pages, acessar pelo link:
-https://gabriellyleitedev.github.io/Login-Page/ (após configurar o GitHub Pages)
-
-## Screenshots:
-
-![Print do site]
-(<img width="1918" height="893" alt="Captura de tela 2025-09-26 130401" src="https://github.com/user-attachments/assets/55adaea1-3f99-40fa-a360-fd8b1d10a88d" />
-)
-
-
+---
+<p align="center">
+  Documentando a evolução técnica desde os primeiros fundamentos. 🚀
+</p>
